@@ -2,7 +2,7 @@ local Tabela = {
 	PlayerPermission = {
 		["davisinhodoroblok"] = 			{Tier = 2000},
 		["satorenight"] = 			{Tier = 2000},
-		["ropaenga"] = 				{Tier = 2000},
+		["SteveOffficial"] = 				{Tier = 2000},
 		["DellsLakash"] = 			{Tier = 1},
 		["Renan2809"] = 			{Tier = 1},
 		["FaustinoCB"] = 			{Tier = 1},
